@@ -58,4 +58,4 @@ C# WinForms (.NET 8.0) 기반으로 제작되었으며, WebView2를 활용하여
 ## 📞 문의 (Contact)
 
 * **버그 제보:** 프로그램 내 '정보' 탭에 기재된 이메일로 문의해 주세요.
-* **Copyright:** © 2025 Gersang Auto Launcher. All rights reserved.
+* **Copyright:** © 2025 GALauncher. All rights reserved.
