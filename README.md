@@ -59,3 +59,15 @@ C# WinForms (.NET 8.0) 기반으로 제작되었으며, WebView2를 활용하여
 
 * **버그 제보:** 프로그램 내 '정보' 탭에 기재된 이메일로 문의해 주세요.
 * **Copyright:** © 2025 GALauncher. All rights reserved.
+
+
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/9c57ded7-e885-4eab-8cfd-f390999f0806" />
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/b3ab92b1-1ad1-4c89-a398-785180c73cdb" />
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/fed5591a-3a40-47c0-b25d-d9250551b2b8" />
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/aea17ffa-dca1-44d5-887c-0430a90fac4f" />
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/0376ab30-f039-4556-b638-0121bfbe3de9" />
+<img width="436" height="811" alt="image" src="https://github.com/user-attachments/assets/3062dcf3-de9d-49eb-ab0f-05b896889845" />
+
+
+
+
